@@ -2,7 +2,7 @@
 
   ## Description:
 
-    This app is a back-end focused application that serves as a e-commerce site back end. It is a server that can receive CRUD communications using http. These will update tables of categories, products and tags.
+   This app is a back-end focused application that serves as a e-commerce site back end. It is a server that can receive CRUD communications using http. These will update tables of categories, products and tags.
 
   ## Table of Contents:
   * [Description](#Description)
